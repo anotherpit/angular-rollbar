@@ -1,0 +1,25 @@
+{
+  "name": "angular-rollbar",
+  "main": "angular-rollbar.js",
+  "version": "0.1.0",
+  "homepage": "https://github.com/anotherpit/angular-rollbar",
+  "authors": [
+    "anotherpit <anotherpit@gmail.com>"
+  ],
+  "description": "A tiny Angular wrapper for for Rollbar JS API",
+  "keywords": [
+    "rollbar",
+    "angular"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.13"
+  }
+}
