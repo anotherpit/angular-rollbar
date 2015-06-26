@@ -1,7 +1,7 @@
 {
   "name": "angular-rollbar",
   "main": "angular-rollbar.js",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "homepage": "https://github.com/anotherpit/angular-rollbar",
   "authors": [
     "anotherpit <anotherpit@gmail.com>"
